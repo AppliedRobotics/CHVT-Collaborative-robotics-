@@ -1,1 +1,1 @@
-# CHVT-Collaborative-robotics-
+# ЧВТ "Коллаборативная робототехника"

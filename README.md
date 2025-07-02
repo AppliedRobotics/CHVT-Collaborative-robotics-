@@ -3,7 +3,7 @@
 # Документация к межрегиональному этапу ЧВТ по компетенции "Специалист по коллаборативной робототехнике с применением инструментов ИИ"
 
 ## Официальные источники
- **[Техническое описание (Technical Description)]** 
-   https://disk.yandex.ru/d/bZPmRKUYutZtpw
+ **[Техническое описание (Technical Description)](https://disk.yandex.ru/d/bZPmRKUYutZtpw)** 
+   
 
 > **Важно**: Актуальная информация публикуется в [Telegram-канале](https://t.me/+ytJjSwrmrE4yNzEy)
